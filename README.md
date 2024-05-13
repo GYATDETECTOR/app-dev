@@ -9,7 +9,7 @@ My first repository
 
 **Key Elements**
 
--**Genre:** Action, adventure, Drama,Fantasy, Horror, Mystery 
--**Starring:** Jared Padalecki, Jensen Ackles, Katie Cassidy, Lauren Cohan, Misha Collins, Mark A. Sheppard, Mark Pallegrino, Alexander Calvert
--**Running Time:** 38-45 minutes per episode
+- **Genre:** Action, adventure, Drama,Fantasy, Horror, Mystery 
+- **Starring:** Jared Padalecki, Jensen Ackles, Katie Cassidy, Lauren Cohan, Misha Collins, Mark A. Sheppard, Mark Pallegrino, Alexander Calvert
+- **Running Time:** 38-45 minutes per episode
 
